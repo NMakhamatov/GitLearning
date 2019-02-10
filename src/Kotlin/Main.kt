@@ -6,3 +6,5 @@ fun main(args: Array<String>) {
             "text 2"
     )
 }
+
+fun function() = ""
