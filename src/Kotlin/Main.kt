@@ -7,4 +7,4 @@ fun main(args: Array<String>) {
     )
 }
 
-fun function() = "Hello"
+public val = "v4"
