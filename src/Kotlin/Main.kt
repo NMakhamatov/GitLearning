@@ -1,10 +1,7 @@
 package Kotlin
 
 fun main(args: Array<String>) {
-    println(
-        "master" +
-            "text"
-    )
+    println(name)
 }
 
-public val = "v4"
+public val name = "M"
