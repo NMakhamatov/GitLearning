@@ -4,4 +4,4 @@ fun main(args: Array<String>) {
     println(name)
 }
 
-public val name = "M"
+public val name = "Ma"
